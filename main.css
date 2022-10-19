@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    width: 100%;
+}
+
+nav,
+footer {
+    background-color: aquamarine;
+}
+
+nav ul {
+    padding: 0 auto;
+    margin: 0 3em;
+
+    list-style: none;
+}
+
+.container {
+    margin: 0 auto;
+    padding: 0 4em;
+}
