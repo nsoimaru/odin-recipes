@@ -11,16 +11,19 @@ img {
 nav,
 footer {
     background-color: aquamarine;
+
+    padding: 0 1em;
 }
 
 nav ul {
     padding: 0 auto;
-    margin: 0 3em;
+    /* margin: 0 3em; */
 
     list-style: none;
 }
 
 .container {
     margin: 0 auto;
-    padding: 0 4em;
+    width: 85%;
+    max-width: 1200px;
 }
